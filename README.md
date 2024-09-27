@@ -11,4 +11,4 @@ Explorations with the creation, composition, and mutation of blocks of ASCII tex
 **Notes for the reader**
    **Purpose**: A Java project to create and manipulate ASCII art blocks using object-oriented design.  
 
-This code may be found at <https://github.com/YOUR_USERNAME/YOU_REPO>. The original project can be found at <https://github.com/Grinnell-CSC207/mp-blocks-maven>.
+This code may be found at [<https://github.com/YOUR_USERNAME/YOU_REPO>](https://github.com/princess-d-alexander/Mini-Project-3). The original project can be found at <https://github.com/Grinnell-CSC207/mp-blocks-maven>.
