@@ -6,7 +6,7 @@ Explorations with the creation, composition, and mutation of blocks of ASCII tex
 # MP Blocks Maven
 * Samuel A. Rebelsky (starter code).
 * Moise Milenge
-* Your name Here
+* Princess Alexander
 
 **Notes for the reader**
    **Purpose**: A Java project to create and manipulate ASCII art blocks using object-oriented design.  
