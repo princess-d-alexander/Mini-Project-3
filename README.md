@@ -8,6 +8,13 @@ Explorations with the creation, composition, and mutation of blocks of ASCII tex
 * Moise Milenge
 * Princess Alexander
 
+Citations:
+* https://rebelsky.cs.grinnell.edu/Courses/CSC207/2024Fa/mps/mp03.html
+* https://github.com/Grinnell-CSC207/mp-blocks-maven
+* https://rebelsky.cs.grinnell.edu/Courses/CSC207/2024Fa/readings/generics.html
+* https://rebelsky.cs.grinnell.edu/Courses/CSC207/2024Fa/readings/interfaces
+* https://rebelsky.cs.grinnell.edu/Courses/CSC207/2024Fa/readings/subtype-polymorphism
+
 **Notes for the reader**
    **Purpose**: A Java project to create and manipulate ASCII art blocks using object-oriented design.  
 
